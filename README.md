@@ -1,6 +1,5 @@
-# Mesh OS · Fase 2 · Guía de Instalación y Uso
-## Sistema Operativo Descentralizado — Red Ad-Hoc B.A.T.M.A.N.
-
+# proyecto Sistemas Complejos
+Juan Niño, Oscar Mateo Arrubla, Jose Santiago Gonzalez
 ---
 
 ## Archivos del proyecto
